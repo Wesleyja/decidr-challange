@@ -2,3 +2,4 @@
 /backend/tmp
 /frontend/.next
 .DS_Store
+/backend/config/master.key
