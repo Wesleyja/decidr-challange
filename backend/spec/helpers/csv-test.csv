@@ -1,0 +1,7 @@
+Name,Location,Species,Gender,Affiliations,Weapon,Vehicle
+Darth Vadar,Death Star,Human,Male,Sith,Lightsaber,Tiefighter
+Boba Fett,Kamino,Human,m,,Blaster,Slave 1
+C-3PO,Tatooine,Protocol Droid,Other,The Resistance,,-1
+C-3PO,Tatooine,,,The Resistance,,-1
+C-3PO,Tatooine,,thisnewgender,The Resistance,,-1
+Jar Jar Binks the third,"Naboo, Naboo2",Gungan,Male,"Galactic Republic, Gungan Grand Army",Energy Ball,Gungan Bongo Submarine
